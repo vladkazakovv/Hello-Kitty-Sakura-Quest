@@ -61,8 +61,7 @@
   4. <img width="996" height="626" alt="image" src="https://github.com/user-attachments/assets/bde5589b-78f0-4ebb-bda7-b0589ab2f627" />
 
 
-⚠️ *Интернет-соединение нужно только для загрузки шрифта Press Start 2P от Google Fonts. В остальном игра работает полностью офлайн.* ⚠️ 
+ 
 
-# Сделано с любовью🌸 
+
 *Hello Kitty Sakura Quest 2026 by Diana & Vlad*
-
