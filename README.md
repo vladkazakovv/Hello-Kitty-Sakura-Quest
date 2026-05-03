@@ -2,13 +2,12 @@
 ✿ Pixel Adventure — браузерная аркадная игра в стиле пиксель-арт с персонажами Sanrio
 🎮 Hello Kitty Sakura Quest — это полноценная браузерная платформер-игра, написанная на чистом HTML5 + Canvas + JavaScript без использования сторонних игровых движков.
 Игрок управляет Hello Kitty и её друзьями, проходя уровни с прыжками, стрельбой по врагам, сбором монет и ключей. В игре реализованы:
-
-🗺️ 4 уникальных уровня — Sakura Garden, Flower Hills, Lighthouse Bay, Sakura City
-👾 Система врагов — патрулирующие Evil Kitty с нарастающей сложностью
-💰 Экономика — монеты, магазин оружия и Mystery Box с редкими персонажами
-🏆 Система звёзд — от 1 до 3 звёзд за скорость, полный сбор монет и нахождение ключа
-👤 Аккаунты — регистрация, вход, профиль с достижениями и статистикой
-🎵 Chiptune-музыка — процедурно генерируемый саундтрек через Web Audio API
+- 4 уникальных уровня — Sakura Garden, Flower Hills, Lighthouse Bay, Sakura City
+- Система врагов — патрулирующие Evil Kitty с нарастающей сложностью
+- Экономика — монеты, магазин оружия и Mystery Box с редкими персонажами
+- Система звёзд — от 1 до 3 звёзд за скорость, полный сбор монет и нахождение ключа
+- Аккаунты — регистрация, вход, профиль с достижениями и статистикой
+- Chiptune-музыка — процедурно генерируемый саундтрек через Web Audio API
 
 # Персонажи (разные редкости):
   1.  Hello Kitty🎀 STARTER Изначально
@@ -60,5 +59,5 @@
   3. <img width="999" height="620" alt="image" src="https://github.com/user-attachments/assets/886911b2-ffb5-43a6-bb5c-4dcc62f772bb" />
   4. <img width="996" height="626" alt="image" src="https://github.com/user-attachments/assets/bde5589b-78f0-4ebb-bda7-b0589ab2f627" />
 
-<h1>*Hello Kitty Sakura Quest 2026 by Diana & Vlad*</h1>
+*Hello Kitty Sakura Quest 2026 by Diana & Vlad*
 
