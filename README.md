@@ -18,29 +18,28 @@
   5.  Cinnamoroll🐰 LEGEND 5%
 
 
-Никакой установки не требуется. Игра работает прямо в браузере.
-Шаг 1. Скачайте файл hellokitty.html
-Шаг 2. Откройте файл в любом современном браузере:
-Шаг 3. Двойной клик по файлу → откроется в браузере по умолчанию
-или перетащите файл во вкладку браузера.
+* # Никакой установки не требуется. Игра работает прямо в браузере.
+*  Шаг 1. Скачайте файл hellokitty.html
+*  Шаг 2. Откройте файл в любом современном браузере:
+*  Шаг 3. Двойной клик по файлу → откроется в браузере по умолчанию или перетащите файл во вкладку браузера.
 
-# * Рекомендуемые браузеры:
+* # Рекомендуемые браузеры:
 *  Google Chrome 90+
 *  Mozilla Firefox 88+
 *  Microsoft Edge 90+
 *  Safari 14+
 
 
-⚠️ Интернет-соединение нужно только для загрузки шрифта Press Start 2P от Google Fonts. В остальном игра работает полностью офлайн.
 
-# * 🎮 Управление:
+* # 🎮 Управление:
 *  ← → - Движение
 *  ↑ / SPACE - Прыжок (двойной прыжок поддерживается)
 *  Z / X - Стрельба
 *  ESC / P - Пауза
 
 
-* Полноценная браузерная игра в одном HTML-файле (~1500 строк кода):
+
+    * # Полноценная браузерная игра в одном HTML-файле (~1500 строк кода):
 *  Система авторизации с локальным хранилищем аккаунтов
 *  Физический движок с гравитацией, коллизиями платформ и прыжками
 *  Процедурная генерация уровней с врагами, монетами, ключами и дверями
@@ -48,36 +47,23 @@
 *  Gacha-механика Mystery Box для разблокировки персонажей
 *  Пиксельный UI с анимациями, сакурой и chiptune-музыкой
 *  Адаптивный HUD с отображением HP, монет, оружия и ключа в реальном времени
+*  Технологии: HTML5 · CSS3 · Vanilla JavaScript · Canvas API · Web Audio API
+*  Зависимости: 0 (только Google Fonts для шрифта)
+*  Размер: ~ 2,3MB
 
-Технологии: HTML5 · CSS3 · Vanilla JavaScript · Canvas API · Web Audio API
-Зависимости: 0 (только Google Fonts для шрифта)
-Размер: ~ 2,3MB
+* # 🖼️ Интерфейс игры
+*  Главное меню <img width="994" height="619" alt="image" src="https://github.com/user-attachments/assets/fa14829d-8b7e-4b13-b1e5-13aa3a9ce49f" />
+*  Игровой HUD (во время уровня) <img width="996" height="25" alt="image" src="https://github.com/user-attachments/assets/dd37832b-83ef-4d6a-9bbf-17d8c030b196" />
+*  Система звёзд <img width="437" height="276" alt="image" src="https://github.com/user-attachments/assets/3a41db96-1c3e-460c-b3bc-96314a894df2" />
+*  Уровни:
+  1. <img width="995" height="621" alt="image" src="https://github.com/user-attachments/assets/e4835c27-9e6b-4c61-aa64-075cd01bbca5" />
+  2. <img width="994" height="622" alt="image" src="https://github.com/user-attachments/assets/ab10b764-518b-4a7b-a251-6164e46529a6" />
+  3. <img width="999" height="620" alt="image" src="https://github.com/user-attachments/assets/886911b2-ffb5-43a6-bb5c-4dcc62f772bb" />
+  4. <img width="996" height="626" alt="image" src="https://github.com/user-attachments/assets/bde5589b-78f0-4ebb-bda7-b0589ab2f627" />
 
-🖼️ Интерфейс игры
-Главное меню
-┌─────────────────────────────────┐
-│    HELLO KITTY  SAKURA QUEST    │
-│      ✿ PIXEL ADVENTURE ✿       │
-│                                 │
-│  [▶ START] [♡ CHARS] [⚙ SOUND] │
-└─────────────────────────────────┘
-Игровой HUD (во время уровня)
-🌸 LV:1 | 💰 5/12 | 🗝️ ✓ | ❤️❤️❤️ | 🔫 UZI | 💎 80
-Система звёзд
-⭐           → собрано 50%+ монет
-⭐⭐         → собрано 80%+ монет + найден ключ
-⭐⭐⭐       → 100% монет + ключ + быстрое прохождение
 
-📁 Структура проекта
-hellokitty.html
-├── <style>          — весь CSS (пиксельный UI, анимации, экраны)
-├── <canvas id="cv"> — игровое поле (800×500px)
-└── <script>
-    ├── Audio Engine      — chiptune через Web Audio API
-    ├── Physics Engine    — гравитация, AABB-коллизии
-    ├── Game Loop         — requestAnimationFrame, 60 FPS
-    ├── Level Builder     — генерация платформ, монет, врагов
-    ├── Account System    — localStorage: регистрация, вход, профиль
-    └── UI Screens        — Menu · Levels · Game · Characters · Settings
+⚠️ Интернет-соединение нужно только для загрузки шрифта Press Start 2P от Google Fonts. В остальном игра работает полностью офлайн.
 
-Сделано с любовью🌸 — Hello Kitty Sakura Quest, 2026
+# Сделано с любовью🌸 
+Hello Kitty Sakura Quest 2026 by Diana & Vlad
+
