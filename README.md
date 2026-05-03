@@ -18,7 +18,7 @@
   5.  Cinnamoroll🐰 LEGEND 5%
 
 
-# Никакой установки не требуется. Игра работает прямо в браузере.
+# Запуск игры
 *  Шаг 1. Скачайте файл hellokitty.html
 *  Шаг 2. Откройте файл в любом современном браузере:
 *  Шаг 3. Двойной клик по файлу → откроется в браузере по умолчанию или перетащите файл во вкладку браузера.
@@ -31,7 +31,7 @@
 
 
 
-  # 🎮 Управление:
+  # Управление:
 *  ← → - Движение
 *  ↑ / SPACE - Прыжок (двойной прыжок поддерживается)
 *  Z / X - Стрельба
@@ -50,7 +50,7 @@
 *  Зависимости: 0 (только Google Fonts для шрифта)
 *  Размер: ~ 2,3MB
 
-  # 🖼️ Интерфейс игры
+  # Интерфейс игры
 *  Главное меню <img width="994" height="619" alt="image" src="https://github.com/user-attachments/assets/fa14829d-8b7e-4b13-b1e5-13aa3a9ce49f" />
 *  Игровой HUD (во время уровня) <img width="996" height="25" alt="image" src="https://github.com/user-attachments/assets/dd37832b-83ef-4d6a-9bbf-17d8c030b196" />
 *  Система звёзд <img width="437" height="276" alt="image" src="https://github.com/user-attachments/assets/3a41db96-1c3e-460c-b3bc-96314a894df2" />
@@ -61,8 +61,8 @@
   4. <img width="996" height="626" alt="image" src="https://github.com/user-attachments/assets/bde5589b-78f0-4ebb-bda7-b0589ab2f627" />
 
 
-⚠️ Интернет-соединение нужно только для загрузки шрифта Press Start 2P от Google Fonts. В остальном игра работает полностью офлайн.
+⚠️ *Интернет-соединение нужно только для загрузки шрифта Press Start 2P от Google Fonts. В остальном игра работает полностью офлайн.* ⚠️ 
 
 # Сделано с любовью🌸 
-Hello Kitty Sakura Quest 2026 by Diana & Vlad
+*Hello Kitty Sakura Quest 2026 by Diana & Vlad*
 
