@@ -59,8 +59,6 @@
   2. <img width="994" height="622" alt="image" src="https://github.com/user-attachments/assets/ab10b764-518b-4a7b-a251-6164e46529a6" />
   3. <img width="999" height="620" alt="image" src="https://github.com/user-attachments/assets/886911b2-ffb5-43a6-bb5c-4dcc62f772bb" />
   4. <img width="996" height="626" alt="image" src="https://github.com/user-attachments/assets/bde5589b-78f0-4ebb-bda7-b0589ab2f627" />
-/
-/
-/
-/
-*Hello Kitty Sakura Quest 2026 by Diana & Vlad*
+
+<h1>*Hello Kitty Sakura Quest 2026 by Diana & Vlad*</h1>
+
